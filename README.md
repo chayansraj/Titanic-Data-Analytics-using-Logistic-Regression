@@ -1,2 +1,2 @@
 # Titanic-Data-Analytics-using-Logistic-Regression
-Data Analysis and visualization was done on python built-in libraries. Pandas,seaborn,plotly,numpy,sci-kit learn
+Logistic Regression Algorithm deployed on Titanic Dataset from kaggle. Various Data Analytics Libraries of Python were used to successfully analyze and fit the regression model giving out accuracy level of about 96%. 
